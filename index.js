@@ -43,11 +43,11 @@ function next(){
                             document.querySelector("img").setAttribute("src", listOfGif[5]);
                             document.querySelector("img").style.borderRadius = "30%";
                             document.querySelector("p").innerHTML = "see you then!!";
-                        }, 5000);
-                    }, 5000);
-                }, 5000);
-            }, 5000);
-        }, 5000);
+                        }, 6000);
+                    }, 6000);
+                }, 6000);
+            }, 6000);
+        }, 6000);
 
     }
 }
