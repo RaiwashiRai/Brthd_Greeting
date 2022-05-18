@@ -1,0 +1,25 @@
+body{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    background-color: #711A75;
+    color: #F10086;
+}
+
+p{
+    font-size: 5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+div{
+    padding-top: 5%;
+}
+
+img{
+    width: 300px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
