@@ -1,7 +1,7 @@
 var count = 0;
 var listOfGif = [
     "https://media.giphy.com/media/vcrq890Ok6LXRnYl7B/giphy.gif",
-    "https://media.giphy.com/media/u0wpUX7gsmoOQ/giphy.gif",
+    "https://media.giphy.com/media/4oJPtYqOQ2xoY/giphy.gif",
     "https://media.giphy.com/media/kfZfVqxRQ39Bu/giphy.gif",
     "https://media.giphy.com/media/aipkSPpcdtYc0/giphy.gif",
     "https://media.giphy.com/media/zQsQ9UDdk2jGU/giphy.gif",
